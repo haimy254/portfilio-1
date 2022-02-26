@@ -1,8 +1,10 @@
-.body{
-background :url('haimy.jpg');
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
-font-family: "EB Garamond", serif;
-  font-size: 16px;
+
+.background {
+    background-image: url("haimy.jpg");
+ height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+
